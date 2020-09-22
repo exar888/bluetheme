@@ -106,11 +106,11 @@ border-bottom: 1px solid #efefef !important;}
 
 @media (max-width: 767px)
 .navbar-desk {
-    width: 50%!important;
+    width: 60%!important;
 }
 @media (max-width: 991px){
 .navbar-desk {
-    width: 25% !important;}
+    width: 70% !important;}
 }
 .indicator.blue::before, .indicator-right.blue::after{
    background:#397de6}
