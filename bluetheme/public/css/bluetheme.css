@@ -103,14 +103,8 @@ border-bottom: 1px solid #efefef !important;}
 .page-card .page-card-head .indicator {
     color: #2b72e0 !important;
     font-size: 15px !important;}
-
-@media (max-width: 767px)
 .navbar-desk {
-    width: 60%!important;
-}
-@media (max-width: 991px){
-.navbar-desk {
-    width: 70% !important;}
+	min-width: 160px !important;
 }
 .indicator.blue::before, .indicator-right.blue::after{
    background:#397de6}
