@@ -1,6 +1,6 @@
 .onboard-spotlight .link-content{font-weight:500 !important}
 /* Only if using bluelynx logo or similar with same width */
-.app-logo {width: 120px !important;}
+.app-logo {width: 90px !important;}
 .navbar-default {
     background-color: #0f71b9;
     border-color: #0f71b9;}
@@ -105,7 +105,7 @@ border-bottom: 1px solid #efefef !important;}
     font-size: 15px !important;}
 @media (max-width: 991px){
 .navbar-desk {
-    width: 60% !important;}
+    width: 25% !important;}
 }
 .indicator.blue::before, .indicator-right.blue::after{
    background:#397de6}
