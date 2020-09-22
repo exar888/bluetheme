@@ -103,8 +103,9 @@ border-bottom: 1px solid #efefef !important;}
 .page-card .page-card-head .indicator {
     color: #2b72e0 !important;
     font-size: 15px !important;}
+@media (max-width: 991px){
 .navbar-desk {
-	min-width: 160px !important;
+    width: 25% !important;}
 }
 .indicator.blue::before, .indicator-right.blue::after{
    background:#397de6}
@@ -205,3 +206,6 @@ footer-subscribe-email {
 	display:none;
 }
 /*To hide the subscribe email*/
+.navbar-desk {
+	min-width: 160px !important;
+}
