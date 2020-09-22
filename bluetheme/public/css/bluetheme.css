@@ -104,9 +104,6 @@ border-bottom: 1px solid #efefef !important;}
     color: #2b72e0 !important;
     font-size: 15px !important;}
 
-.navbar-desk {
-	width: 50%!important;
-}
 @media (max-width: 767px)
 .navbar-desk {
     width: 50%!important;
