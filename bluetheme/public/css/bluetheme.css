@@ -4,8 +4,8 @@
 .app-logo {
 	width: 30px !important;}
 .navbar-default {
-	background-color: #2155a2;
-	border-color: #2155a2;}
+	background-color: #0f71b9;
+	border-color: #0f71b9;}
 #navbar-search {
 	background-color: #123263;
 	border: 1px solid #123263;
@@ -18,7 +18,7 @@
 .navbar {
 	min-height: 46px;}
 .navbar-light{
-	background-color: #2155a2 !important;
+	background-color: #0f71b9 !important;
 	padding: 0.25rem 1rem;}
 .navbar-light .navbar-nav .nav-link{
 	color: #ffffff;}
@@ -71,8 +71,8 @@ h6.uppercase, .h6.uppercase {
 	font-weight: 500;
 	letter-spacing: 0px;}
 .btn-primary {
-	background-color: #2155a2;
-	border-color: #2155a2;}
+	background-color: #0f71b9;
+	border-color: #0f71b9;}
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
 	background-color: #274b82;
 	border-color: #274b82;}
@@ -227,3 +227,17 @@ h6.uppercase, .h6.uppercase {
    background: url(/assets/bluetheme/images/agriculture.png)}
 .non-profit-blue{
    background: url(/assets/bluetheme/images/charity.png)}
+.app-logo {
+	width: 120px !important;
+	content:url("/assets/bluetheme/images/app-logo.png") !important;
+}
+/*To hide the footer powered by*/
+.footer-powered { 
+	display:none;
+}
+/*To hide the footer powered by*/
+/*To hide the subscribe email*/
+footer-subscribe-email { 
+	display:none;
+}
+/*To hide the subscribe email*/
