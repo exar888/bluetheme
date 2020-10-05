@@ -193,7 +193,7 @@ border-bottom: 1px solid #efefef !important;}
    background: url(/assets/bluetheme/images/charity.png)}
 
 .app-logo {
-	width: 130px !important;
+	width: 100px !important;
 	content:url("/assets/bluetheme/images/app-logo.png") !important;
 }
 /*To hide the footer powered by*/
@@ -207,5 +207,5 @@ footer-subscribe-email {
 }
 /*To hide the subscribe email*/
 .navbar-desk {
-	min-width: 160px !important;
+	min-width: 180px !important;
 }
